@@ -39,7 +39,7 @@ I spend a great portion of my time 👩🏻‍💻
 
 ## Stats
 
-<img align="center" with="900" src="https://github-readme-stats.vercel.app/api/top-langs/?username=duygugg&llangs_count=8&layout=compact" />
+<img align="center" with="900" src="https://github-readme-stats.vercel.app/api/top-langs/?username=duygugg&llangs_count=12&layout=compact" />
 
 ## - 🔭 I’m currently working on 
 - Developing a cross platform mobile application 
